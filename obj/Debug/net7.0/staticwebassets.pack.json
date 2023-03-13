@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/home/taiwo/dot/testproject/wwwroot/images/belgium.jpg",
+      "PackagePath": "staticwebassets/images/belgium.jpg"
+    },
+    {
+      "Id": "/home/taiwo/dot/testproject/wwwroot/images/blackimage.jpg",
+      "PackagePath": "staticwebassets/images/blackimage.jpg"
+    },
+    {
+      "Id": "/home/taiwo/dot/testproject/wwwroot/images/crowd.jpg",
+      "PackagePath": "staticwebassets/images/crowd.jpg"
+    },
+    {
       "Id": "/home/taiwo/dot/testproject/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },
