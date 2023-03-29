@@ -18645,6 +18645,16 @@
   "RootNamespace": "testproject",
   "Documents": [
     {
+      "FilePath": "/home/taiwo/dot/testproject/Views/Classes/Details.cshtml",
+      "TargetPath": "Views\\Classes\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/taiwo/dot/testproject/Views/Enrollments/Index.cshtml",
+      "TargetPath": "Views\\Enrollments\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/taiwo/dot/testproject/Views/Shared/_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -18695,6 +18705,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/taiwo/dot/testproject/Views/Enrollments/Delete.cshtml",
+      "TargetPath": "Views\\Enrollments\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/taiwo/dot/testproject/Views/Lecturers/Edit.cshtml",
       "TargetPath": "Views\\Lecturers\\Edit.cshtml",
       "FileKind": "mvc"
@@ -18702,6 +18717,11 @@
     {
       "FilePath": "/home/taiwo/dot/testproject/Views/Courses/Index.cshtml",
       "TargetPath": "Views\\Courses\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/taiwo/dot/testproject/Views/Enrollments/Create.cshtml",
+      "TargetPath": "Views\\Enrollments\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18715,6 +18735,21 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/taiwo/dot/testproject/Views/Classes/Create.cshtml",
+      "TargetPath": "Views\\Classes\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/taiwo/dot/testproject/Views/Classes/Index.cshtml",
+      "TargetPath": "Views\\Classes\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/taiwo/dot/testproject/Views/Enrollments/Edit.cshtml",
+      "TargetPath": "Views\\Enrollments\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/taiwo/dot/testproject/Views/Students/Delete.cshtml",
       "TargetPath": "Views\\Students\\Delete.cshtml",
       "FileKind": "mvc"
@@ -18722,6 +18757,11 @@
     {
       "FilePath": "/home/taiwo/dot/testproject/Views/Lecturers/Details.cshtml",
       "TargetPath": "Views\\Lecturers\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/taiwo/dot/testproject/Views/Classes/Edit.cshtml",
+      "TargetPath": "Views\\Classes\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18745,6 +18785,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/taiwo/dot/testproject/Views/Classes/Delete.cshtml",
+      "TargetPath": "Views\\Classes\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/taiwo/dot/testproject/Views/Lecturers/Delete.cshtml",
       "TargetPath": "Views\\Lecturers\\Delete.cshtml",
       "FileKind": "mvc"
@@ -18752,6 +18797,11 @@
     {
       "FilePath": "/home/taiwo/dot/testproject/Views/Home/Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/taiwo/dot/testproject/Views/Enrollments/Details.cshtml",
+      "TargetPath": "Views\\Enrollments\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
