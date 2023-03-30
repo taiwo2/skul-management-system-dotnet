@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "7eNPCin7hiFAOofr9idMttb2UFDX+DRo7hSWcV4MBmNCNDz+P6GUQ5OE7doQ/YjYz+5Fy1tMLaP5ES1eaz+ILg==",
+  "dgSpecHash": "Ivm+9vsvIiz3j7vyRwm9SWxtOY1qs+oABoxU9EZwkKDT07iHoEbCOD6lG+QQpeHTkkEqYcOT1oqqvAQ2qjKtOw==",
   "success": true,
   "projectFilePath": "/home/taiwo/dot/testproject/testproject.csproj",
   "expectedPackageFiles": [
+    "/home/taiwo/.nuget/packages/auth0.aspnetcore.authentication/1.2.0/auth0.aspnetcore.authentication.1.2.0.nupkg.sha512",
     "/home/taiwo/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/home/taiwo/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",
     "/home/taiwo/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
+    "/home/taiwo/.nuget/packages/microsoft.aspnetcore.authentication.openidconnect/7.0.3/microsoft.aspnetcore.authentication.openidconnect.7.0.3.nupkg.sha512",
     "/home/taiwo/.nuget/packages/microsoft.aspnetcore.razor.language/6.0.11/microsoft.aspnetcore.razor.language.6.0.11.nupkg.sha512",
     "/home/taiwo/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "/home/taiwo/.nuget/packages/microsoft.build/17.3.2/microsoft.build.17.3.2.nupkg.sha512",
