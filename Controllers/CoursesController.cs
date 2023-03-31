@@ -10,6 +10,8 @@ using testproject.Data;
 
 namespace testproject.Controllers
 {
+    [Authorize]
+
     public class CoursesController : Controller
     {
         private readonly SchoolManagementDbContext _context;
@@ -46,7 +48,6 @@ namespace testproject.Controllers
         }
 
         // GET: Courses/Create
-        [Authorize]
         public IActionResult Create()
         {
             return View();
